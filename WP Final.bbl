@@ -1,0 +1,122 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{JeffreysJones2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1a81a6492db9384a6807e5d792fa1ed8}{%
+           family={Jeffreys-Jones},
+           familyi={J\bibinithyphendelim J\bibinitperiod},
+           given={Rhodri},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{fullhash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{fullhashraw}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{bibnamehash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{authorbibnamehash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{authornamehash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{authorfullhash}{1a81a6492db9384a6807e5d792fa1ed8}
+      \strng{authorfullhashraw}{1a81a6492db9384a6807e5d792fa1ed8}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The CIA and American Democracy}
+      \field{year}{2003}
+    \endentry
+    \entry{CWC_2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=0fb00a03052a552432146e2a53893ac2}{%
+           family={Wartime\bibnamedelimb Contracting\bibnamedelimb in\bibnamedelima Iraq},
+           familyi={W\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Commission},
+           giveni={C\bibinitperiod},
+           prefix={on},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=6e9767f4f15357401b148b9a8ced14ef}{%
+           family={Afghanistan},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Commission on Wartime Contracting in Iraq}%
+        {Afghanistan}%
+      }
+      \strng{namehash}{0b877048313576c35781e099abd748b4}
+      \strng{fullhash}{0b877048313576c35781e099abd748b4}
+      \strng{fullhashraw}{0b877048313576c35781e099abd748b4}
+      \strng{bibnamehash}{0b877048313576c35781e099abd748b4}
+      \strng{authorbibnamehash}{0b877048313576c35781e099abd748b4}
+      \strng{authornamehash}{0b877048313576c35781e099abd748b4}
+      \strng{authorfullhash}{0b877048313576c35781e099abd748b4}
+      \strng{authorfullhashraw}{0b877048313576c35781e099abd748b4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transforming Wartime Contracting: Controlling Costs, Reducing Risks}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://cybercemetery.unt.edu/cwc/20110929213815/http:/www.wartimecontracting.gov/docs/CWC_FinalReport-lowres.pdf
+      \endverb
+      \verb{url}
+      \verb https://cybercemetery.unt.edu/cwc/20110929213815/http:/www.wartimecontracting.gov/docs/CWC_FinalReport-lowres.pdf
+      \endverb
+    \endentry
+    \entry{Wyden1979}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ebb751d76367f976b89eb827101895ce}{%
+           family={Wyden},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{ebb751d76367f976b89eb827101895ce}
+      \strng{fullhash}{ebb751d76367f976b89eb827101895ce}
+      \strng{fullhashraw}{ebb751d76367f976b89eb827101895ce}
+      \strng{bibnamehash}{ebb751d76367f976b89eb827101895ce}
+      \strng{authorbibnamehash}{ebb751d76367f976b89eb827101895ce}
+      \strng{authornamehash}{ebb751d76367f976b89eb827101895ce}
+      \strng{authorfullhash}{ebb751d76367f976b89eb827101895ce}
+      \strng{authorfullhashraw}{ebb751d76367f976b89eb827101895ce}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bay of Pigs: The Untold Story}
+      \field{year}{1979}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
