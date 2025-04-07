@@ -19,6 +19,67 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{nytimes2005halliburtoncontract}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=65551eb06323e814a73fadb2d946f76e}{%
+           family={Barstow},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times}%
+      }
+      \strng{namehash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{fullhash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{fullhashraw}{65551eb06323e814a73fadb2d946f76e}
+      \strng{bibnamehash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{authorbibnamehash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{authornamehash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{authorfullhash}{65551eb06323e814a73fadb2d946f76e}
+      \strng{authorfullhashraw}{65551eb06323e814a73fadb2d946f76e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-07}
+      \field{title}{Army Contract Official Critical of Halliburton Pact Is Demoted}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2005/08/29/world/middleeast/army-contract-official-critical-of-halliburton-pact-is.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2005/08/29/world/middleeast/army-contract-official-critical-of-halliburton-pact-is.html
+      \endverb
+    \endentry
+    \entry{bbc2008iraqcontracts}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3bcfea2f189f0839ca5746e02b910cf8}{%
+           family={{BBC News}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{fullhash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{fullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{bibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{authorbibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{authornamehash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{authorfullhash}{3bcfea2f189f0839ca5746e02b910cf8}
+      \strng{authorfullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-07}
+      \field{title}{Iraq 'winners' profited from war}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb http://news.bbc.co.uk/2/hi/middle_east/7444083.stm
+      \endverb
+      \verb{url}
+      \verb http://news.bbc.co.uk/2/hi/middle_east/7444083.stm
+      \endverb
+    \endentry
     \entry{JeffreysJones2003}{book}{}{}
       \name{author}{1}{}{%
         {{hash=1a81a6492db9384a6807e5d792fa1ed8}{%
@@ -47,6 +108,47 @@
       \field{labeltitlesource}{title}
       \field{title}{The CIA and American Democracy}
       \field{year}{2003}
+    \endentry
+    \entry{us_senate2011wartime_contracting}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=eabc6754eee682e1242cbac46c6978f9}{%
+           family={United\bibnamedelimb States\bibnamedelima Senate},
+           familyi={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Subcommittee\bibnamedelimb on\bibnamedelima Readiness},
+           giveni={S\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=54425639eb3802270af12ca788c643c6}{%
+           family={Management\bibnamedelima Support},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Committee\bibnamedelimb on\bibnamedelimb Armed\bibnamedelima Services},
+           giveni={C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {U.S. Government Printing Office}%
+      }
+      \strng{namehash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{fullhash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{fullhashraw}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{bibnamehash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{authorbibnamehash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{authornamehash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{authorfullhash}{9bc98a1c5d7842c39230d30169e49d16}
+      \strng{authorfullhashraw}{9bc98a1c5d7842c39230d30169e49d16}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-07}
+      \field{title}{The Final Report of the Commission on Wartime Contracting in Iraq and Afghanistan}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.govinfo.gov/content/pkg/CHRG-112shrg72564/pdf/CHRG-112shrg72564.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.govinfo.gov/content/pkg/CHRG-112shrg72564/pdf/CHRG-112shrg72564.pdf
+      \endverb
     \endentry
     \entry{CWC_2011}{book}{}{}
       \name{author}{2}{}{%

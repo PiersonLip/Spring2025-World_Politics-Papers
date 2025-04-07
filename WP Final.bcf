@@ -2376,6 +2376,12 @@
     <bcf:citekey order="2" intorder="1">Wyden1979</bcf:citekey>
     <bcf:citekey order="3" intorder="1">JeffreysJones2003</bcf:citekey>
     <bcf:citekey order="4" intorder="1">CWC_2011</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">us_senate2011wartime_contracting</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">us_senate2011wartime_contracting</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">us_senate2011wartime_contracting</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">bbc2008iraqcontracts</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">nytimes2005halliburtoncontract</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">nytimes2005halliburtoncontract</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
