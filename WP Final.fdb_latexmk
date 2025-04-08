@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber WP Final"] 1744057764.83918 "WP Final.bcf" "WP Final.bbl" "WP Final" 1744057771.02885 0
+["biber WP Final"] 1744134502.72575 "WP Final.bcf" "WP Final.bbl" "WP Final" 1744134518.26881 0
   "WP Final.bcf" 1744057770 109256 abbf83729d325df392cd3b05df7b48ce "pdflatex"
-  "sources.bib" 1744056508 3064 e25196e98c6d2b2343620d5d74fefc28 ""
+  "sources.bib" 1744134501 3064 a1117fe5034373ce2eefc985a406376f ""
   (generated)
   "WP Final.bbl"
   "WP Final.blg"
   (rewritten before read)
-["pdflatex"] 1744057769.23524 "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Final.tex" "WP Final.pdf" "WP Final" 1744057771.02999 0
+["pdflatex"] 1744057769.23524 "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Final.tex" "WP Final.pdf" "WP Final" 1744134518.2691 0
   "WP Final.aux" 1744057770 2285 5519e8eaad36b3b9a6becc87f17df6be "pdflatex"
-  "WP Final.bbl" 1744057767 9668 6379f4d5c50853fcd765dc0a7d9ae168 "biber WP Final"
+  "WP Final.bbl" 1744134518 9668 6379f4d5c50853fcd765dc0a7d9ae168 "biber WP Final"
   "WP Final.run.xml" 1744057770 2344 512c3593659119db131b43c8c1fdb1c5 "pdflatex"
   "WP Final.tex" 1744057762 10990 eb388844295b586d78811653161f5cd6 ""
   "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Final.tex" 1744057762 10990 eb388844295b586d78811653161f5cd6 ""
