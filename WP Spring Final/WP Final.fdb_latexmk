@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber WP Final"] 1744144324.26142 "WP Final.bcf" "WP Final.bbl" "WP Final" 1744144489.69987 0
-  "WP Final.bcf" 1744144489 109524 7ff70a7b9e9fc0904dd220ebc01af492 "pdflatex"
+["biber WP Final"] 1744144324.26142 "WP Final.bcf" "WP Final.bbl" "WP Final" 1744326789.83994 0
+  "WP Final.bcf" 1744326789 109524 7ff70a7b9e9fc0904dd220ebc01af492 "pdflatex"
   "sources.bib" 1744134501 3064 a1117fe5034373ce2eefc985a406376f ""
   (generated)
   "WP Final.bbl"
   "WP Final.blg"
   (rewritten before read)
-["pdflatex"] 1744144488.39077 "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Final.tex" "WP Final.pdf" "WP Final" 1744144489.70078 0
-  "WP Final.aux" 1744144489 2716 b78e6482975995e2739fa2f7ba223e33 "pdflatex"
+["pdflatex"] 1744326787.60262 "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Spring Final/WP Final.tex" "WP Final.pdf" "WP Final" 1744326789.84065 0
+  "WP Final.aux" 1744326789 2716 b78e6482975995e2739fa2f7ba223e33 "pdflatex"
   "WP Final.bbl" 1744144334 10821 d34bd4c84711ffe8c7ffabb6b8728566 "biber WP Final"
-  "WP Final.run.xml" 1744144489 2344 512c3593659119db131b43c8c1fdb1c5 "pdflatex"
-  "WP Final.tex" 1744144487 13067 583885865802776794e932bf0e5b45f4 ""
-  "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Final.tex" 1744144487 13067 583885865802776794e932bf0e5b45f4 ""
+  "WP Final.run.xml" 1744326789 2344 512c3593659119db131b43c8c1fdb1c5 "pdflatex"
+  "WP Final.tex" 1744326786 13067 e338bc4e5bc46385ceeaa82644edef2c ""
+  "c:/Users/iatpuser/Desktop/school stuff/World Poltics Paper/WP-Final-Paper-Spring/WP Spring Final/WP Final.tex" 1744326786 13067 e338bc4e5bc46385ceeaa82644edef2c ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1742690270 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1742691463 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1742690940 1536 05df9db6aeccc4eea94fec15c9024f79 ""
