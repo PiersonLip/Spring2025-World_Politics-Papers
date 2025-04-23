@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,239 +16,185 @@
   {}
 \endgroup
 
+\datalist[entry]{none/global//global/global/global}
+  \entry{JeffreysJones2003}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=JJR}{%
+         family={Jeffreys-Jones},
+         familyi={J\bibinithyphendelim J\bibinitperiod},
+         given={Rhodri},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Yale University Press}%
+    }
+    \strng{namehash}{JJR1}
+    \strng{fullhash}{JJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The CIA and American Democracy}
+    \list{location}{1}{%
+      {New Haven}%
+    }
+    \field{year}{2003}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global/global}
-    \entry{nytimes2005halliburtoncontract}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=65551eb06323e814a73fadb2d946f76e}{%
-           family={Barstow},
-           familyi={B\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The New York Times}%
-      }
-      \strng{namehash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{fullhash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{fullhashraw}{65551eb06323e814a73fadb2d946f76e}
-      \strng{bibnamehash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{authorbibnamehash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{authornamehash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{authorfullhash}{65551eb06323e814a73fadb2d946f76e}
-      \strng{authorfullhashraw}{65551eb06323e814a73fadb2d946f76e}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-04-07}
-      \field{title}{Army Contract Official Critical of Halliburton Pact Is Demoted}
-      \field{year}{2005}
-      \verb{urlraw}
-      \verb https://www.nytimes.com/2005/08/29/world/middleeast/army-contract-official-critical-of-halliburton-pact-is.html
-      \endverb
-      \verb{url}
-      \verb https://www.nytimes.com/2005/08/29/world/middleeast/army-contract-official-critical-of-halliburton-pact-is.html
-      \endverb
-    \endentry
-    \entry{bbc2008iraqcontracts}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=3bcfea2f189f0839ca5746e02b910cf8}{%
-           family={{BBC News}},
-           familyi={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{fullhash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{fullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{bibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{authorbibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{authornamehash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{authorfullhash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{authorfullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-04-07}
-      \field{title}{Iraq 'winners' profited from war}
-      \field{year}{2008}
-      \verb{urlraw}
-      \verb http://news.bbc.co.uk/2/hi/middle_east/7444083.stm
-      \endverb
-      \verb{url}
-      \verb http://news.bbc.co.uk/2/hi/middle_east/7444083.stm
-      \endverb
-    \endentry
-    \entry{JeffreysJones2003}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=1a81a6492db9384a6807e5d792fa1ed8}{%
-           family={Jeffreys-Jones},
-           familyi={J\bibinithyphendelim J\bibinitperiod},
-           given={Rhodri},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New Haven}%
-      }
-      \list{publisher}{1}{%
-        {Yale University Press}%
-      }
-      \strng{namehash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{fullhash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{fullhashraw}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{bibnamehash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{authorbibnamehash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{authornamehash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{authorfullhash}{1a81a6492db9384a6807e5d792fa1ed8}
-      \strng{authorfullhashraw}{1a81a6492db9384a6807e5d792fa1ed8}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The CIA and American Democracy}
-      \field{year}{2003}
-    \endentry
-    \entry{Klay2014}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=c76a4c7bd62a029bdd98a029aaeddb8e}{%
-           family={Klay},
-           familyi={K\bibinitperiod},
-           given={Phil},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Penguin Press}%
-      }
-      \strng{namehash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{fullhash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{fullhashraw}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{bibnamehash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{authorbibnamehash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{authornamehash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{authorfullhash}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \strng{authorfullhashraw}{c76a4c7bd62a029bdd98a029aaeddb8e}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781594204999}
-      \field{title}{Redeployment}
-      \field{year}{2014}
-    \endentry
-    \entry{us_senate2011wartime_contracting}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=eabc6754eee682e1242cbac46c6978f9}{%
-           family={United\bibnamedelimb States\bibnamedelima Senate},
-           familyi={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Subcommittee\bibnamedelimb on\bibnamedelima Readiness},
-           giveni={S\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=54425639eb3802270af12ca788c643c6}{%
-           family={Management\bibnamedelima Support},
-           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Committee\bibnamedelimb on\bibnamedelimb Armed\bibnamedelima Services},
-           giveni={C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Washington, D.C.}%
-      }
-      \list{publisher}{1}{%
-        {U.S. Government Printing Office}%
-      }
-      \strng{namehash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{fullhash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{fullhashraw}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{bibnamehash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{authorbibnamehash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{authornamehash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{authorfullhash}{9bc98a1c5d7842c39230d30169e49d16}
-      \strng{authorfullhashraw}{9bc98a1c5d7842c39230d30169e49d16}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-04-07}
-      \field{title}{The Final Report of the Commission on Wartime Contracting in Iraq and Afghanistan}
-      \field{year}{2011}
-      \verb{urlraw}
-      \verb https://www.govinfo.gov/content/pkg/CHRG-112shrg72564/pdf/CHRG-112shrg72564.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.govinfo.gov/content/pkg/CHRG-112shrg72564/pdf/CHRG-112shrg72564.pdf
-      \endverb
-    \endentry
-    \entry{CWC_2011}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=0fb00a03052a552432146e2a53893ac2}{%
-           family={Wartime\bibnamedelimb Contracting\bibnamedelimb in\bibnamedelima Iraq},
-           familyi={W\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim I\bibinitperiod},
-           given={Commission},
-           giveni={C\bibinitperiod},
-           prefix={on},
-           prefixi={o\bibinitperiod}}}%
-        {{hash=6e9767f4f15357401b148b9a8ced14ef}{%
-           family={Afghanistan},
-           familyi={A\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Commission on Wartime Contracting in Iraq}%
-        {Afghanistan}%
-      }
-      \strng{namehash}{0b877048313576c35781e099abd748b4}
-      \strng{fullhash}{0b877048313576c35781e099abd748b4}
-      \strng{fullhashraw}{0b877048313576c35781e099abd748b4}
-      \strng{bibnamehash}{0b877048313576c35781e099abd748b4}
-      \strng{authorbibnamehash}{0b877048313576c35781e099abd748b4}
-      \strng{authornamehash}{0b877048313576c35781e099abd748b4}
-      \strng{authorfullhash}{0b877048313576c35781e099abd748b4}
-      \strng{authorfullhashraw}{0b877048313576c35781e099abd748b4}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Transforming Wartime Contracting: Controlling Costs, Reducing Risks}
-      \field{year}{2011}
-      \verb{urlraw}
-      \verb https://cybercemetery.unt.edu/cwc/20110929213815/http:/www.wartimecontracting.gov/docs/CWC_FinalReport-lowres.pdf
-      \endverb
-      \verb{url}
-      \verb https://cybercemetery.unt.edu/cwc/20110929213815/http:/www.wartimecontracting.gov/docs/CWC_FinalReport-lowres.pdf
-      \endverb
-    \endentry
-    \entry{Wyden1979}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=ebb751d76367f976b89eb827101895ce}{%
-           family={Wyden},
-           familyi={W\bibinitperiod},
-           given={Peter\bibnamedelima H.},
-           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{2}{%
-        {Simon}%
-        {Schuster}%
-      }
-      \strng{namehash}{ebb751d76367f976b89eb827101895ce}
-      \strng{fullhash}{ebb751d76367f976b89eb827101895ce}
-      \strng{fullhashraw}{ebb751d76367f976b89eb827101895ce}
-      \strng{bibnamehash}{ebb751d76367f976b89eb827101895ce}
-      \strng{authorbibnamehash}{ebb751d76367f976b89eb827101895ce}
-      \strng{authornamehash}{ebb751d76367f976b89eb827101895ce}
-      \strng{authorfullhash}{ebb751d76367f976b89eb827101895ce}
-      \strng{authorfullhashraw}{ebb751d76367f976b89eb827101895ce}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Bay of Pigs: The Untold Story}
-      \field{year}{1979}
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{Wyden1979}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=WPH}{%
+         family={Wyden},
+         familyi={W\bibinitperiod},
+         given={Peter\bibnamedelima H.},
+         giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Simon}%
+      {Schuster}%
+    }
+    \strng{namehash}{WPH1}
+    \strng{fullhash}{WPH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Bay of Pigs: The Untold Story}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1979}
+  \endentry
+
+  \entry{CWC_2011}{book}{}{}
+    \name{author}{2}{}{%
+      {{hash=oWCiIC}{%
+         prefix={on\bibnamedelima Wartime Contracting\bibnamedelima in},
+         prefixi={o\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim i\bibinitperiod},
+         family={Iraq},
+         familyi={I\bibinitperiod},
+         given={Commission},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=A}{%
+         family={Afghanistan},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Commission on Wartime Contracting in Iraq}%
+      {Afghanistan}%
+    }
+    \strng{namehash}{ICoWCiA1}
+    \strng{fullhash}{ICoWCiA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Transforming Wartime Contracting: Controlling Costs, Reducing Risks}
+    \verb{url}
+    \verb https://cybercemetery.unt.edu/cwc/20110929213815/http:/www.wartimecon
+    \verb tracting.gov/docs/CWC_FinalReport-lowres.pdf
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{us_senate2011wartime_contracting}{book}{}{}
+    \name{author}{2}{}{%
+      {{hash=USSSoR}{%
+         family={United States\bibnamedelima Senate},
+         familyi={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Subcommittee on\bibnamedelima Readiness},
+         giveni={S\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MSCoAS}{%
+         family={Management\bibnamedelima Support},
+         familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Committee on Armed\bibnamedelima Services},
+         giveni={C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {U.S. Government Printing Office}%
+    }
+    \strng{namehash}{USSSoRMSCoAS1}
+    \strng{fullhash}{USSSoRMSCoAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Accessed: 2025-04-07}
+    \field{title}{The Final Report of the Commission on Wartime Contracting in Iraq and Afghanistan}
+    \verb{url}
+    \verb https://www.govinfo.gov/content/pkg/CHRG-112shrg72564/pdf/CHRG-112shr
+    \verb g72564.pdf
+    \endverb
+    \list{location}{1}{%
+      {Washington, D.C.}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Klay2014}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=KP}{%
+         family={Klay},
+         familyi={K\bibinitperiod},
+         given={Phil},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin Press}%
+    }
+    \strng{namehash}{KP1}
+    \strng{fullhash}{KP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9781594204999}
+    \field{title}{Redeployment}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{bbc2008iraqcontracts}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={{BBC News}},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Accessed: 2025-04-07}
+    \field{title}{Iraq 'winners' profited from war}
+    \verb{url}
+    \verb http://news.bbc.co.uk/2/hi/middle_east/7444083.stm
+    \endverb
+    \field{year}{2008}
+  \endentry
+
+  \entry{nytimes2005halliburtoncontract}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Barstow},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The New York Times}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Accessed: 2025-04-07}
+    \field{title}{Army Contract Official Critical of Halliburton Pact Is Demoted}
+    \verb{url}
+    \verb https://www.nytimes.com/2005/08/29/world/middleeast/army-contract-off
+    \verb icial-critical-of-halliburton-pact-is.html
+    \endverb
+    \field{year}{2005}
+  \endentry
+\enddatalist
 \endinput
-
